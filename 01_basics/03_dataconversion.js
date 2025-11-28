@@ -1,10 +1,10 @@
-/*let score= "darshan"
+let score= "darshan"
 console.log(typeof score)
-console.log(typeof (score)); */
+console.log(typeof (score)); 
 
-/*let valueInNumber=Number(score)
+let valueInNumber=Number(score)
 console.log(typeof valueInNumber);
-console.log(valueInNumber)*/
+console.log(valueInNumber)
 
 // 25 => "25"
 // true => 1 and false =>1
