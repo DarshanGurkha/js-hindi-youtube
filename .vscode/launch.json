@@ -10,12 +10,14 @@
             "request": "attach",
             "type": "chrome",
         },
-
+       
         {
             "type": "chrome",
             "request": "launch",
             "name": "Open one.html",
             "file": "/workspaces/js-hindi-youtube/DOM/one.html"
         }
+        
     ]
+   
 }
